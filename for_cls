@@ -1,0 +1,5 @@
+#!/usr/bin/python
+score={"sachin":100,"kapil":12,"sam":134}
+new scores = score
+new scores["Dhoni"] = 50
+print score
